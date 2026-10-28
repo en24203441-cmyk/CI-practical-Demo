@@ -1,8 +1,8 @@
 name: CI Pipeline
 
-# This gives a name to the workflow.
+
 on:
-  # Whenever code is uploaded to GitHub.
+  
   push:
     branches:
       - main
