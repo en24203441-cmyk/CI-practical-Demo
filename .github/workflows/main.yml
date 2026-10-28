@@ -27,4 +27,7 @@ jobs:
       - name: Display Completion Message
         run: echo "Pipeline Executed Successfully"
 
+      - name: invalid command
+        run: ABCXYZ
+
     
